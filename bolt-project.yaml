@@ -1,4 +1,7 @@
 ---
 name: proj_comply
+modulepath: ['.module_fixtures']
+policies:
+- 'policy::*'
 modules:
 - name: puppetlabs/comply
