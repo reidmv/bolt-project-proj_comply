@@ -2,3 +2,4 @@
 name: proj_comply
 modules:
 - name: puppetlabs/comply
+- name: puppetlabs/cem_linux
