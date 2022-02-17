@@ -5,3 +5,4 @@ policies:
 - 'policy::*'
 modules:
 - name: puppetlabs/comply
+- name: puppetlabs/cem_linux
